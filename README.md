@@ -10,6 +10,10 @@ Projeto desenvolvido durante o curso de Responsividade e Mobile-First da Alura.
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+### Versão Desktop:
+![](https://github.com/mauricciorcosta/projeto-apeperia/blob/main/projeto-apeperia/screenshot_desktop.jpg?raw=true#vitrinedev)
 
-![Screenshot Desktop](https://github.com/mauricciorcosta/projeto-apeperia/blob/main/projeto-apeperia/screenshot_desktop.jpg?raw=true#vitrinedev)
-![Screenshot Mobile](https://github.com/mauricciorcosta/projeto-apeperia/blob/main/projeto-apeperia/screenshot_mobile.jpg?raw=true#vitrinedev)
+---
+
+### Versão Mobile: <br>
+![](https://github.com/mauricciorcosta/projeto-apeperia/blob/main/projeto-apeperia/screenshot_mobile.jpg?raw=true#vitrinedev)
